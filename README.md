@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purvi Kapadia</h1>
-<h3 align="center">Crafting Smart Solutions with Code, Data & AI | B.E Computer Engineering</h3>
+<h3 align="center">Analyst/A4 @ Capgemini | B.E Computer Engineering</h3>
 
 ---
 <p align="center">
