@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purvi Kapadia</h1>
----
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/purvikapadia59?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers">
 </p>
