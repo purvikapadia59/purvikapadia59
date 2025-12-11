@@ -64,20 +64,3 @@ Machine Learning, Web Development, Natural Language Processing
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge&logo=scikit-learn)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-0A66C2?style=for-the-badge&logo=googlechrome)
 ![NLP](https://img.shields.io/badge/-NLP-ffb703?style=for-the-badge&logo=openai)
-
----
-
-## 📊 GitHub Stats
-
-![Purvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purvikapadia59&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purvikapadia59&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=purvikapadia59&theme=radical)](https://git.io/streak-stats)
-
----
-
-### ✨ Freelance and Blogs
-
-📢 *Available for freelance work*  
-📝 *Coming soon: My tech blogs*
