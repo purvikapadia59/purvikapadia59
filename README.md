@@ -14,7 +14,6 @@
 
 ### 💡 About Me
 
-- 🌱 Currently exploring **Advanced ML, NLP, Gen AI, Agentic AI, and Data Analytics** to create smarter, future-ready solutions.
 - 👩‍💻 All of my projects are available here on **[GitHub](https://github.com/purvikapadia59?tab=repositories)**
 - 📫 Reach me at: **purvikapadia2@gmail.com**
 
